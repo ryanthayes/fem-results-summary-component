@@ -1,7 +1,32 @@
 /* define custom variables */
 
 :root {
-    
+    --clr-light-red: hsl(0, 100%, 67%);
+    --clr-orangey-yellow: hsl(39, 100%, 56%);
+    --clr-green-teal: hsl(166, 100%, 37%);
+    --clr-cobalt-blue: hsl(234, 85%, 45%);
+
+    --clr-light-slate-blue: hsl(252, 100%, 67%);
+    --clr-light-royal-blue: hsl(241, 81%, 54%);
+    --clr-violet-blue: hsla(256, 72%, 46%, 1);
+    --clr-persian-blue: hsla(241, 72%, 46%, 0);
+
+    --clr-white: hsl(0, 0%, 100%);
+    --clr-pale-blue: hsl(221, 100%, 96%);
+    --clr-light-lavender: hsl(241, 100%, 89%);
+    --clr-dark-gray-blue: hsl(224, 30%, 27%);
+
+    --ff-primary: 'Hanken Grotesk', sans-serif;
+
+    --fw-regular: 400;
+    --fw-semi-bold: 500;
+    --fw-bold: 700;
+
+    --fs-400: 1rem;
+    --fs-500: 1.125rem;
+    --fs-600: 1.25rem;
+    --fs-700: 1.5rem;
+    --fs-800: 3rem;
 }
 
 /* makes sizing simpler */
@@ -19,12 +44,6 @@
   margin: 0;
   padding: 0;
   font: inherit;
-}
-
-/* dark mode user-agent-styles */
-
-html {
-  color-scheme: dark light;
 }
 
 /* min body height */
