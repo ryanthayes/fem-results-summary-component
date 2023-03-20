@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/ryanthayes/fem-results-summary-component)
-- Live Site URL: [Live URL](https://ryanthayes.github.io/fem-results-summary-component)
+- [Solution](https://github.com/ryanthayes/fem-results-summary-component)
+- [Live URL](https://ryanthayes.github.io/fem-results-summary-component)
 
 ## My process
 
