@@ -57,7 +57,7 @@ I have been learning a lot from Kevin Powell's videos on YouTube (https://www.yo
     --clr-accent1-alpha1: hsla(var(--clr-base-red), 100%, 67%, 10%);
 ```
 
-I also learned about :nth child to style individual <li>. This is very useful. I was able to change the background and font color of each list item without having to create a class for each.
+I also learned about :nth child to style individual list items. This is very useful. I was able to change the background and font color of each list item without having to create a class for each.
 
 ```
 css
